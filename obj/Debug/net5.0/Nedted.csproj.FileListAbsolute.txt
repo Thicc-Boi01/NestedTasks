@@ -1,0 +1,16 @@
+C:\Users\tjc27\Desktop\Swinburne 2021\Programing\Programing\Nedted\obj\Debug\net5.0\Nedted.csprojAssemblyReference.cache
+C:\Users\tjc27\Desktop\Swinburne 2021\Programing\Programing\Nedted\obj\Debug\net5.0\Nedted.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tjc27\Desktop\Swinburne 2021\Programing\Programing\Nedted\obj\Debug\net5.0\Nedted.AssemblyInfoInputs.cache
+C:\Users\tjc27\Desktop\Swinburne 2021\Programing\Programing\Nedted\obj\Debug\net5.0\Nedted.AssemblyInfo.cs
+C:\Users\tjc27\Desktop\Swinburne 2021\Programing\Programing\Nedted\obj\Debug\net5.0\Nedted.csproj.CoreCompileInputs.cache
+C:\Users\tjc27\Desktop\Swinburne 2021\Programing\Programing\Nedted\bin\Debug\net5.0\Nedted.exe
+C:\Users\tjc27\Desktop\Swinburne 2021\Programing\Programing\Nedted\bin\Debug\net5.0\Nedted.deps.json
+C:\Users\tjc27\Desktop\Swinburne 2021\Programing\Programing\Nedted\bin\Debug\net5.0\Nedted.runtimeconfig.json
+C:\Users\tjc27\Desktop\Swinburne 2021\Programing\Programing\Nedted\bin\Debug\net5.0\Nedted.runtimeconfig.dev.json
+C:\Users\tjc27\Desktop\Swinburne 2021\Programing\Programing\Nedted\bin\Debug\net5.0\Nedted.dll
+C:\Users\tjc27\Desktop\Swinburne 2021\Programing\Programing\Nedted\bin\Debug\net5.0\ref\Nedted.dll
+C:\Users\tjc27\Desktop\Swinburne 2021\Programing\Programing\Nedted\bin\Debug\net5.0\Nedted.pdb
+C:\Users\tjc27\Desktop\Swinburne 2021\Programing\Programing\Nedted\obj\Debug\net5.0\Nedted.dll
+C:\Users\tjc27\Desktop\Swinburne 2021\Programing\Programing\Nedted\obj\Debug\net5.0\ref\Nedted.dll
+C:\Users\tjc27\Desktop\Swinburne 2021\Programing\Programing\Nedted\obj\Debug\net5.0\Nedted.pdb
+C:\Users\tjc27\Desktop\Swinburne 2021\Programing\Programing\Nedted\obj\Debug\net5.0\Nedted.genruntimeconfig.cache
